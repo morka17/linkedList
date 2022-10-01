@@ -1,5 +1,4 @@
 use core::fmt;
-use core::iter::{FromIterator, FusedIterator};
 use core::marker::PhantomData;
 use core::mem;
 /// A doubly-linked list
